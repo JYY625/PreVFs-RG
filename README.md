@@ -1,5 +1,5 @@
 # PreVFs-RG
-**PreVFs-RG: A method for predicting virulence factors (VFs) based on deep learning.**
+**PreVFs-RG: A deep hybrid model for identifying virulence factors based on residual block and gated recurrent unit.**
 # Usage
 1.The data file contains training dataset and independent dataset.  
 2.kmer, DDE and AAC are implementation of feature extraction.  
